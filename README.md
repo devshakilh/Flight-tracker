@@ -1,6 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+-# video demo search results link (https://www.awesomescreenshot.com/video/27548278?key=3a7606bfeafd89ebd6b95ff3400e9b4b)
 
 ## Getting Started
+
+-clone this repository
+-npi i or yarn
 
 First, run the development server:
 
@@ -14,23 +17,14 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# I sepnt time this pronect complete 1 hours
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+-Top two git repositories:
+1/(https://github.com/devshakilh/university-management-core-service)
+2/(https://github.com/devshakilh/book-catelog-prisma)
+3/(https://github.com/devshakilh/service-xone-bd_frontend)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+-Frontend project link :
+1/(https://asana-clone-shakil.vercel.app/)
+2/(https://miro-gamma.vercel.app/)
+3/https://tour-travel-main.vercel.app/
